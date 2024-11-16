@@ -6,5 +6,5 @@
 
  install chrome
 
- usage dorker.py -d "<SEARCHTERM>" 
+ usage dorker.py -d "SEARCHTERM" 
  dorker.py -h for usage
